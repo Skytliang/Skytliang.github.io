@@ -27,7 +27,7 @@ I am generally interested in natural language processing and machine learning. C
 
 **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate**  
 *Tian Liang*\*, Zhiwei He\*, Wenxiang Jiao\*, Xing Wang$^\dagger$, Yan Wang, Rui Wang, Yujiu Yang$^\dagger$, Zhaopeng Tu, Shuming Shi<br>
-ARXIV 2023. [[arxiv]](https://arxiv.org/abs/2305.19118) [[github]](https://github.com/Skytliang/Multi-Agents-Debate)
+ARXIV 2023. [[arxiv]](https://arxiv.org/abs/2305.19118) [[code]](https://github.com/Skytliang/Multi-Agents-Debate)
 
 **Exploring Human-Like Translation Strategy with Large Language Models**
 Zhiwei He\*, *Tian Liang*\*, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang$^\dagger$, Zhaopeng Tu$^\dagger$, Shuming Shi, Xing Wang<br>
