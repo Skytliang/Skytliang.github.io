@@ -83,13 +83,13 @@ author:
   name             : "Tian Liang"
   name2            : "梁添"
   avatar           : "profile.jpg"
-  bio              : "Master student in Tsinghua Shenzhen International Graduate School"
+  bio              : "Master Student in SIGS, Tsinghua University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           :
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Z6bZcT4AAAAJ&hl=en&oi=sra"
   email            : liangt21@mails.tsinghua.edu.cn
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Liang-Tian-20"
   uri              :
   bitbucket        :
   codepen          :
@@ -266,6 +266,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-glossary_tooltip
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

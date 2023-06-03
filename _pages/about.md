@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% seo %}
 
 <!-- ## About Me -->
 I received my Automation degree from Wuhan University, 2017/03 - 2021/06. I am now pursuing my master degree under the supervision [Prof. Yujiu Yang](https://scholar.google.co.za/citations?user=4gH3sxsAAAAJ&hl=zh-CN) in Tsinghua Shenzhen International Graduate School, 2022/03 - present.
