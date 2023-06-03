@@ -17,7 +17,7 @@ Now, I am interning at [Tencent AI Lab](https://ai.tencent.com/ailab/nlp/en/inde
 
 ## Research
 I am generally interested in natural language processing and machine learning. Current interests include:
-- Multi-Agent Intelligent with LLMs
+- Multi-Agent Intelligence with LLMs
 - Human-Like Machine Translation
 - AI Safety and Alignment
 
