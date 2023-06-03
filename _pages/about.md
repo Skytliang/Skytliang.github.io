@@ -34,5 +34,19 @@ Zhiwei He\*, *Tian Liang*\*, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wan
 ARXIV 2023. [[arxiv]](https://arxiv.org/abs/2305.04118) [[code]](https://github.com/zwhe99/MAPS-mt) [[bib]](files/he2023exploring/bib.txt)
 
 
+## Competition
+\* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
+
+**Acronym extraction with hybrid strategies**<br>
+[SDU@ AAAI-22](https://sites.google.com/view/sdu-aaai22/shared-task), Rank **2nd**.<br>
+Siheng Li\*, Cheng Yang\*, *Tian Liang*\*, Xinyu Zhu, Chengze Yu, Yujiu Yang$^\dagger$<br>
+AAAI 2022 Workshop. [[paper]](https://ceur-ws.org/Vol-3164/paper25.pdf) [[code]](https://github.com/carlyoung1999/AAAI-SDU-Task1) [[bib]](files/li2022acronym/bib.txt)
+
+**Multilingual Acronym Disambiguation with Multi-choice Classification**<br>
+[SDU@ AAAI-22](https://sites.google.com/view/sdu-aaai22/shared-task), Rank **4th**.<br>
+Xinyu Zhu\*, Chengze Yu\*, Siheng Li, *Tian Liang*, Cheng Yang, Yujiu Yang$^\dagger$<br>
+AAAI 2022 Workshop. [[paper]](https://ix.cs.uoregon.edu/~apouranb/sdu22/SDUAAAI22_paper_14.pdf) [[code]](https://github.com/TianHongZXY/1919-AAAI22-SDU-shared-task2) [[bib]](files/zhu2022multilingual/bib.txt)
+
+
 <!-- # Awards
 Outstanding Undergraduate Thesis in WHU (top 1%) -->

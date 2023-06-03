@@ -1,0 +1,6 @@
+@article{li2022acronym,
+  title={Acronym extraction with hybrid strategies},
+  author={Li, Siheng and Yang, Cheng and Liang, Tian and Zhu, Xinyu and Yu, Chengze and Yang, Yujiu},
+  journal={SDU@ AAAI-22},
+  year={2022}
+}
