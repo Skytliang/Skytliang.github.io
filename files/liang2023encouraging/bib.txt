@@ -1,6 +1,6 @@
-@article{liang2023encouraging,
-  title={Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate},
-  author={Liang, Tian and He, Zhiwei and Jiao, Wenxiang and Wang, Xing and Wang, Yan and Wang, Rui and Yang, Yujiu and Tu, Zhaopeng and Shi, Shuming},
-  journal={arXiv preprint arXiv:2305.19118},
+@article{jiao2023parrot,
+  title={ParroT: Translating during Chat using Large Language Models tuned with Human Translation and Feedback},
+  author={Jiao, Wenxiang and Huang, Jen-tse and Wang, Wenxuan and He, Zhiwei and Liang, Tian and Wang, Xing and Shi, Shuming and Tu, Zhaopeng},
+  journal={arXiv preprint arXiv:2304.02426},
   year={2023}
 }

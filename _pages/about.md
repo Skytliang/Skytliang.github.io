@@ -21,9 +21,15 @@ I am generally interested in natural language processing and machine learning. C
 - Human-Like Machine Translation
 - AI Safety and Alignment
 
+## News
+:fire: ParroT was accepted to EMNLP 2023 Findings. Congratulations to all the co-authors!
 
 ## Publications
 \* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
+
+**ParroT: Translating during Chat using Large Language Models tuned with Human Translation and Feedback**
+Wenxiang Jiao\*, Jen-tse Huang, Wenxuan Wang, Zhiwei He, *Tian Liang*, Xing Wang, Shuming Shi, Zhaopeng Tu<br>
+EMNLP 2023. [[arxiv]](https://arxiv.org/abs/2304.02426) [[code]](https://github.com/wxjiao/ParroT) [[bib]](files/jiao2023parrot/bib.txt)
 
 **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate**<br>
 *Tian Liang*\*, Zhiwei He\*, Wenxiang Jiao\*, Xing Wang$^\dagger$, Yan Wang, Rui Wang, Yujiu Yang$^\dagger$, Zhaopeng Tu, Shuming Shi<br>
