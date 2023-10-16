@@ -22,7 +22,7 @@ I am generally interested in natural language processing and machine learning. C
 - AI Safety and Alignment
 
 ## News
-\U0001F525 ParroT was accepted to EMNLP 2023 Findings. Congratulations to all the co-authors!
+arroT was accepted to EMNLP 2023 Findings. Congratulations to all the co-authors!
 
 ## Publications
 \* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
