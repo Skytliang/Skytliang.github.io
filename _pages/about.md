@@ -27,7 +27,7 @@ ParroT was accepted to EMNLP 2023 Findings. Congratulations to all the co-author
 ## Publications
 \* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
 
-**ParroT: Translating during Chat using Large Language Models tuned with Human Translation and Feedback**
+**ParroT: Translating during Chat using Large Language Models tuned with Human Translation and Feedback**<br>
 Wenxiang Jiao\*, Jen-tse Huang, Wenxuan Wang, Zhiwei He, *Tian Liang*, Xing Wang, Shuming Shi, Zhaopeng Tu<br>
 EMNLP 2023. [[arxiv]](https://arxiv.org/abs/2304.02426) [[code]](https://github.com/wxjiao/ParroT) [[bib]](files/jiao2023parrot/bib.txt)
 
