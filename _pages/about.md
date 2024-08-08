@@ -29,7 +29,7 @@ ParroT was accepted to EMNLP 2023 Findings. Congratulations to all the co-author
 
 **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate**<br>
 *Tian Liang*\*, Zhiwei He\*, Wenxiang Jiao\*, Xing Wang$^\dagger$, Yan Wang, Rui Wang, Yujiu Yang$^\dagger$, Zhaopeng Tu, Shuming Shi<br>
-ARXIV 2023. [[arxiv]](https://arxiv.org/abs/2305.19118) [[code]](https://github.com/Skytliang/Multi-Agents-Debate) [[bib]](files/liang2023encouraging/bib.txt)
+ARXIV 2023. [[arxiv]](https://arxiv.org/abs/2305.19118) [[code]](https://github.com/Skytliang/Multi-Agents-Debate) [[bib]](files/liang2023encouraging/bib.txt) [[Citations: 152 🎉🎉]](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Encouraging+Divergent+Thinking+in+Large+Language+Models+through+Multi-Agent+Debate&btnG=)
 
 **Addressing Entity Translation Problem via Translation Difficulty and Context Diversity**<br>
 *Tian Liang*, Xing Wang$^\dagger$, Mingming Yang, Yujiu Yang$^\dagger$, Shuming Shi, Zhaopeng Tu<br>
