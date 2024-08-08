@@ -1,0 +1,6 @@
+@article{liang2023leveraging,
+  title={Leveraging word guessing games to assess the intelligence of large language models},
+  author={Liang, Tian and He, Zhiwei and Huang, Jen-tes and Wang, Wenxuan and Jiao, Wenxiang and Wang, Rui and Yang, Yujiu and Tu, Zhaopeng and Shi, Shuming and Wang, Xing},
+  journal={arXiv preprint arXiv:2310.20499},
+  year={2023}
+}

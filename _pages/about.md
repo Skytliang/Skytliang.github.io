@@ -21,24 +21,40 @@ I am generally interested in natural language processing and machine learning. C
 - Human-Like Machine Translation
 - AI Safety and Alignment
 
-## News
-ParroT was accepted to EMNLP 2023 Findings. Congratulations to all the co-authors!
+<!-- ## News
+ParroT was accepted to EMNLP 2023 Findings. Congratulations to all the co-authors! -->
 
 ## Publications
 \* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
-
-**ParroT: Translating during Chat using Large Language Models tuned with Human Translation and Feedback**<br>
-Wenxiang Jiao\*, Jen-tse Huang, Wenxuan Wang, Zhiwei He, *Tian Liang*, Xing Wang, Shuming Shi, Zhaopeng Tu<br>
-EMNLP 2023. [[arxiv]](https://arxiv.org/abs/2304.02426) [[code]](https://github.com/wxjiao/ParroT) [[bib]](files/jiao2023parrot/bib.txt)
 
 **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate**<br>
 *Tian Liang*\*, Zhiwei He\*, Wenxiang Jiao\*, Xing Wang$^\dagger$, Yan Wang, Rui Wang, Yujiu Yang$^\dagger$, Zhaopeng Tu, Shuming Shi<br>
 ARXIV 2023. [[arxiv]](https://arxiv.org/abs/2305.19118) [[code]](https://github.com/Skytliang/Multi-Agents-Debate) [[bib]](files/liang2023encouraging/bib.txt)
 
+**Addressing Entity Translation Problem via Translation Difficulty and Context Diversity**<br>
+*Tian Liang*, Xing Wang$^\dagger$, Mingming Yang, Yujiu Yang$^\dagger$, Shuming Shi, Zhaopeng Tu<br>
+Findings of ACL 2024. [[paper]](files/liang2024addressing/Addressing_Entity_Translation_Problem.pdf) [[code]](https://github.com/Skytliang/EntityTranslation) [[bib]](files/liang2024addressing/bib.txt)
+
 **Exploring Human-Like Translation Strategy with Large Language Models**<br>
 Zhiwei He\*, *Tian Liang*\*, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang$^\dagger$, Zhaopeng Tu$^\dagger$, Shuming Shi, Xing Wang<br>
-ARXIV 2023. [[arxiv]](https://arxiv.org/abs/2305.04118) [[code]](https://github.com/zwhe99/MAPS-mt) [[bib]](files/he2023exploring/bib.txt)
+TACL 2023. [[arxiv]](https://arxiv.org/abs/2305.04118) [[code]](https://github.com/zwhe99/MAPS-mt) [[bib]](files/he2023exploring/bib.txt)
 
+**CriticBench: Benchmarking LLMs for Critique-Correct Reasoning**<br>
+Zicheng Lin\*, Zhibin Gou\*, *Tian Liang*, Ruilin Luo, Haowei Liu, Yujiu Yang$^\dagger$<br>
+Findings of ACL 2024. [[arxiv]](https://arxiv.org/abs/2402.14809) [[code]](https://github.com/CriticBench/CriticBench) [[bib]](files/lin2024criticbench/bib.txt)
+
+**ParroT: Translating during Chat using Large Language Models tuned with Human Translation and Feedback**<br>
+Wenxiang Jiao\*, Jen-tse Huang, Wenxuan Wang, Zhiwei He, *Tian Liang*, Xing Wang, Shuming Shi, Zhaopeng Tu<br>
+Findings of EMNLP 2023. [[arxiv]](https://arxiv.org/abs/2304.02426) [[code]](https://github.com/wxjiao/ParroT) [[bib]](files/jiao2023parrot/bib.txt)
+
+**Leveraging word guessing games to assess the intelligence of large language models**<br>
+*Tian Liang*, Zhiwei He, Jen-tes Huang, Wenxuan Wang, Wenxiang Jiao$^\dagger$, Rui Wang, Yujiu Yang$^\dagger$, Zhaopeng Tu, Shuming Shi, Xing Wang$^\dagger$<br>
+ARXIV 2023. [[arxiv]](https://arxiv.org/abs/2310.20499) [[bib]](files/liang2023leveraging/bib.txt)
+
+**How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments**<br>
+<br>
+Jen-tse Huang, Eric John Li, Man Ho Lam, *Tian Liang*, Wenxuan Wang, Youliang Yuan, Wenxiang Jiao$^\dagger$, Xing Wang, Zhaopeng Tu, Michael R. Lyu<br>
+ARXIV 2024. [[arxiv]](https://arxiv.org/abs/2403.11807) [[bib]](files/huang2024far/bib.txt)
 
 ## Competition
 \* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
@@ -51,7 +67,7 @@ AAAI 2022 Workshop. [[paper]](https://ceur-ws.org/Vol-3164/paper25.pdf) [[code]]
 **Multilingual Acronym Disambiguation with Multi-choice Classification**<br>
 [SDU@ AAAI-22](https://sites.google.com/view/sdu-aaai22/shared-task), Rank **4th**.<br>
 Xinyu Zhu\*, Chengze Yu\*, Siheng Li, *Tian Liang*, Cheng Yang, Yujiu Yang$^\dagger$<br>
-AAAI 2022 Workshop. [[paper]](https://ix.cs.uoregon.edu/~apouranb/sdu22/SDUAAAI22_paper_14.pdf) [[code]](https://github.com/TianHongZXY/1919-AAAI22-SDU-shared-task2) [[bib]](files/zhu2022multilingual/bib.txt)
+AAAI 2022 Workshop. [[paper]](files/zhu2022multilingual/AAAI_2022_workshop__CEUR_WS_.pdf) [[code]](https://github.com/TianHongZXY/1919-AAAI22-SDU-shared-task2) [[bib]](files/zhu2022multilingual/bib.txt)
 
 
 <!-- # Awards

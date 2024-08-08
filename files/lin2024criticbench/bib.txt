@@ -1,0 +1,6 @@
+@inproceedings{lin2024criticbench,
+  title={CriticBench: Benchmarking LLMs for Critique-Correct Reasoning},
+  author={Lin, Zicheng and Gou, Zhibin and Liang, Tian and Luo, Ruilin and Liu, Haowei and Yang, Yujiu},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2024},
+  year={2024}
+}

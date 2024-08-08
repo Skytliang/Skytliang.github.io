@@ -1,6 +1,9 @@
-@article{he2023exploring,
-  title={Exploring Human-Like Translation Strategy with Large Language Models},
+@article{he2024exploring,
+  title={Exploring human-like translation strategy with large language models},
   author={He, Zhiwei and Liang, Tian and Jiao, Wenxiang and Zhang, Zhuosheng and Yang, Yujiu and Wang, Rui and Tu, Zhaopeng and Shi, Shuming and Wang, Xing},
-  journal={arXiv preprint arXiv:2305.04118},
-  year={2023}
+  journal={Transactions of the Association for Computational Linguistics},
+  volume={12},
+  pages={229--246},
+  year={2024},
+  publisher={MIT Press One Broadway, 12th Floor, Cambridge, Massachusetts 02142, USA~…}
 }

@@ -1,0 +1,6 @@
+@article{huang2024far,
+  title={How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments},
+  author={Huang, Jen-tse and Li, Eric John and Lam, Man Ho and Liang, Tian and Wang, Wenxuan and Yuan, Youliang and Jiao, Wenxiang and Wang, Xing and Tu, Zhaopeng and Lyu, Michael R},
+  journal={arXiv preprint arXiv:2403.11807},
+  year={2024}
+}

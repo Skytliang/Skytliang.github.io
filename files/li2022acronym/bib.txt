@@ -1,6 +1,6 @@
-@article{li2022acronym,
-  title={Acronym extraction with hybrid strategies},
+@inproceedings{li2022acronym,
+  title={Acronym Extraction with Hybrid Strategies},
   author={Li, Siheng and Yang, Cheng and Liang, Tian and Zhu, Xinyu and Yu, Chengze and Yang, Yujiu},
-  journal={SDU@ AAAI-22},
+  booktitle={SDU@ AAAI},
   year={2022}
 }

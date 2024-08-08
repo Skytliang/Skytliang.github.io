@@ -1,6 +1,6 @@
-@article{zhu2022multilingual,
-  title={Multilingual acronym disambiguation with multichoice classification},
+@inproceedings{zhu2022multilingual,
+  title={Multilingual Acronym Disambiguation with Multi-choice Classification},
   author={Zhu, Xinyu and Yu, Chengze and Li, Siheng and Liang, Tian and Yang, Cheng and Yang, Yujiu},
-  journal={SDU@ AAAI-22},
+  booktitle={SDU@ AAAI},
   year={2022}
 }

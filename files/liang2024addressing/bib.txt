@@ -1,0 +1,6 @@
+@inproceedings{liang2024addressing,
+  title={Addressing Entity Translation Problem via Translation Difficulty and Context Diversity},
+  author={Liang, Tian and Wang, Xing and Yang, Mingming and Yang, Yujiu and Shi, Shuming and Tu, Zhaopeng},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2024},
+  year={2024}
+}
