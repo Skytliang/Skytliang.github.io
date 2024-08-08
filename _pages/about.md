@@ -33,7 +33,7 @@ ARXIV 2023. [[arxiv]](https://arxiv.org/abs/2305.19118) [[code]](https://github.
 
 **Addressing Entity Translation Problem via Translation Difficulty and Context Diversity**<br>
 *Tian Liang*, Xing Wang$^\dagger$, Mingming Yang, Yujiu Yang$^\dagger$, Shuming Shi, Zhaopeng Tu<br>
-Findings of ACL 2024. [[paper]](files/liang2024addressing/Addressing_Entity_Translation_Problem.pdf) [[code]](https://github.com/Skytliang/EntityTranslation) [[bib]](files/liang2024addressing/bib.txt)
+ACL 2024. [[paper]](files/liang2024addressing/Addressing_Entity_Translation_Problem.pdf) [[code]](https://github.com/Skytliang/EntityTranslation) [[bib]](files/liang2024addressing/bib.txt)
 
 **Exploring Human-Like Translation Strategy with Large Language Models**<br>
 Zhiwei He\*, *Tian Liang*\*, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang$^\dagger$, Zhaopeng Tu$^\dagger$, Shuming Shi, Xing Wang<br>
@@ -41,18 +41,17 @@ TACL 2023. [[arxiv]](https://arxiv.org/abs/2305.04118) [[code]](https://github.c
 
 **CriticBench: Benchmarking LLMs for Critique-Correct Reasoning**<br>
 Zicheng Lin\*, Zhibin Gou\*, *Tian Liang*, Ruilin Luo, Haowei Liu, Yujiu Yang$^\dagger$<br>
-Findings of ACL 2024. [[arxiv]](https://arxiv.org/abs/2402.14809) [[code]](https://github.com/CriticBench/CriticBench) [[bib]](files/lin2024criticbench/bib.txt)
+ACL 2024. [[arxiv]](https://arxiv.org/abs/2402.14809) [[code]](https://github.com/CriticBench/CriticBench) [[bib]](files/lin2024criticbench/bib.txt)
 
 **ParroT: Translating during Chat using Large Language Models tuned with Human Translation and Feedback**<br>
 Wenxiang Jiao\*, Jen-tse Huang, Wenxuan Wang, Zhiwei He, *Tian Liang*, Xing Wang, Shuming Shi, Zhaopeng Tu<br>
-Findings of EMNLP 2023. [[arxiv]](https://arxiv.org/abs/2304.02426) [[code]](https://github.com/wxjiao/ParroT) [[bib]](files/jiao2023parrot/bib.txt)
+EMNLP 2023. [[arxiv]](https://arxiv.org/abs/2304.02426) [[code]](https://github.com/wxjiao/ParroT) [[bib]](files/jiao2023parrot/bib.txt)
 
 **Leveraging word guessing games to assess the intelligence of large language models**<br>
 *Tian Liang*, Zhiwei He, Jen-tes Huang, Wenxuan Wang, Wenxiang Jiao$^\dagger$, Rui Wang, Yujiu Yang$^\dagger$, Zhaopeng Tu, Shuming Shi, Xing Wang$^\dagger$<br>
 ARXIV 2023. [[arxiv]](https://arxiv.org/abs/2310.20499) [[bib]](files/liang2023leveraging/bib.txt)
 
 **How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments**<br>
-<br>
 Jen-tse Huang, Eric John Li, Man Ho Lam, *Tian Liang*, Wenxuan Wang, Youliang Yuan, Wenxiang Jiao$^\dagger$, Xing Wang, Zhaopeng Tu, Michael R. Lyu<br>
 ARXIV 2024. [[arxiv]](https://arxiv.org/abs/2403.11807) [[bib]](files/huang2024far/bib.txt)
 
