@@ -1,0 +1,6 @@
+@article{yuan2024refuse,
+  title={Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training},
+  author={Yuan, Youliang and Jiao, Wenxiang and Wang, Wenxuan and Huang, Jen-tse and Xu, Jiahao and Liang, Tian and He, Pinjia and Tu, Zhaopeng},
+  journal={arXiv preprint arXiv:2407.09121},
+  year={2024}
+}
