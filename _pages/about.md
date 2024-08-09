@@ -56,7 +56,7 @@ Jen-tse Huang, Eric John Li, Man Ho Lam, *Tian Liang*, Wenxuan Wang, Youliang Yu
 ARXIV 2024. [[arxiv]](https://arxiv.org/abs/2403.11807) [[bib]](files/huang2024far/bib.txt)
 
 **Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training**<br>
-Youliang Yuan, Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Jiahao Xu, Tian Liang, Pinjia He, Zhaopeng Tu<br>
+Youliang Yuan, Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Jiahao Xu, *Tian Liang*, Pinjia He, Zhaopeng Tu<br>
 ARXIV 2024. [[arxiv]](https://arxiv.org/abs/2407.09121) [[code]](https://github.com/RobustNLP/DeRTa) [[bib]](files/yuan2024refuse/bib.txt)
 
 ## Competition
