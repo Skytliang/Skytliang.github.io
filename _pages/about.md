@@ -10,7 +10,7 @@ redirect_from:
 {% seo %}
 
 <!-- ## About Me -->
-I work at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) <img src='./images/Tencent_AI_Lab.jpg' style='width: 6em;'> as a research scientist now in Shenzhen. My interests include: 1. Self-Play Post-training Paradigm; 2. Effective model architecture; and 3. Efficient training and inference.
+I work at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) <img src='./images/Tencent_AI_Lab.jpg' style='width: 0.5em;'> as a research scientist now in Shenzhen. My interests include: 1. Self-Play Post-training Paradigm; 2. Effective model architecture; and 3. Efficient training and inference.
 
 I graduated from Wuhan University (2017/09 - 2021/06) with a bachelor's degree and from the from [Intelligent Interaction Group](https://sites.google.com/view/iigroup-thu/publication), SIGS @ Tsinghua University (2021/09 - 2024/06) with a master's degree, advised by [Prof. Yujiu Yang](https://scholar.google.co.za/citations?user=4gH3sxsAAAAJ&hl=en).
 
