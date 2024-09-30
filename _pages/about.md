@@ -10,16 +10,9 @@ redirect_from:
 {% seo %}
 
 <!-- ## About Me -->
-I received my Automation degree from Wuhan University, 2017/03 - 2021/06. I am now pursuing my master degree under the supervision [Prof. Yujiu Yang](https://scholar.google.co.za/citations?user=4gH3sxsAAAAJ&hl=zh-CN) in Tsinghua Shenzhen International Graduate School, 2022/03 - present.
+I work at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) <img src='./images/Tencent_AI_Lab.jpg' style='width: 6em;'> as a research scientist now in Shenzhen. My interests include: 1. Self-Play Post-training Paradigm; 2. Effective model architecture; and 3. Efficient training and inference.
 
-Now, I am interning at [Tencent AI Lab](https://ai.tencent.com/ailab/nlp/en/index.html), Tencent Rhino-Bird Elite Training Program 2022-2023. My mentor is Tencent AI Lab senior researcher [Xing Wang](http://xingwang4nlp.com/), whose research interests include neural/statistical machine translation and large language models (for machine translation).
-
-
-## Research
-I am generally interested in natural language processing and machine learning. Current interests include:
-- Multi-Agent Intelligence with LLMs
-- Human-Like Machine Translation
-- AI Safety and Alignment
+I graduated from Wuhan University (2017/09 - 2021/06) with a bachelor's degree and from the from [Intelligent Interaction Group](https://sites.google.com/view/iigroup-thu/publication), SIGS @ Tsinghua University (2021/09 - 2024/06) with a master's degree, advised by [Prof. Yujiu Yang](https://scholar.google.co.za/citations?user=4gH3sxsAAAAJ&hl=en).
 
 <!-- ## News
 ParroT was accepted to EMNLP 2023 Findings. Congratulations to all the co-authors! -->
@@ -29,7 +22,7 @@ ParroT was accepted to EMNLP 2023 Findings. Congratulations to all the co-author
 
 **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate**<br>
 *Tian Liang*\*, Zhiwei He\*, Wenxiang Jiao\*, Xing Wang$^\dagger$, Yan Wang, Rui Wang, Yujiu Yang$^\dagger$, Zhaopeng Tu, Shuming Shi<br>
-ARXIV 2023. [[arxiv]](https://arxiv.org/abs/2305.19118) [[code]](https://github.com/Skytliang/Multi-Agents-Debate) [[bib]](files/liang2023encouraging/bib.txt) [[Citations: 152 🎉🎉]](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Encouraging+Divergent+Thinking+in+Large+Language+Models+through+Multi-Agent+Debate&btnG=)
+EMNLP 2024. [[arxiv]](https://arxiv.org/abs/2305.19118) [[code]](https://github.com/Skytliang/Multi-Agents-Debate) [[bib]](files/liang2023encouraging/bib.txt) [[Citations: 173 🎉🎉]](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Encouraging+Divergent+Thinking+in+Large+Language+Models+through+Multi-Agent+Debate&btnG=)
 
 **Addressing Entity Translation Problem via Translation Difficulty and Context Diversity**<br>
 *Tian Liang*, Xing Wang$^\dagger$, Mingming Yang, Yujiu Yang$^\dagger$, Shuming Shi, Zhaopeng Tu<br>
